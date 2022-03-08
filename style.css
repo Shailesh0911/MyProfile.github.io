@@ -37,6 +37,11 @@
 	                font-weight:bold
 	            }
 	            
+				#img-id {
+					height: 400px;
+					width: 400px;
+				}
+
 	            #HomeRow
 	            {
 	                padding-top:7%;   
